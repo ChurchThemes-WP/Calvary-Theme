@@ -13,7 +13,7 @@ You have been warned! :)
 */
 
 // Current version of the theme
-define( 'CHURCHTHEMES_CURRENT_VERSION', '1.3.3' );
+define( 'CHURCHTHEMES_CURRENT_VERSION', '1.4' );
 
 // Theme options
 define( 'CHURCHTHEMES_OPTIONS_MAIN_COLOR', '#fff34e' );
@@ -31,8 +31,5 @@ if ( !defined( 'CHURCHTHEMES_SLIDER_CONTROLS_ACTIVE' ) ) {
 }
 
 // Update script
-define( 'CHURCHTHEMES_UPDATE_API_URL', 'http://churchthemes.net/updates/calvary/' );
-
-// PressTrends
-define( 'CHURCHTHEMES_PRESSTRENDS_API_KEY', '6wtwv56il5mirnyk1gaiox0swbp3ut612rof' );
-define( 'CHURCHTHEMES_PRESSTRENDS_THEME_AUTH', 'sgbofz3e4cs4rwj6ndp0et4v8dkk8c317' );
+define( 'CHURCHTHEMES_UPDATE_API_URL', 'http://churchthemes.net' );
+define( 'CHURCHTHEMES_ITEM_NAME', 'Antioch' );
