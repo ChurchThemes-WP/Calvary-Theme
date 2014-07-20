@@ -22,7 +22,7 @@ define( 'CHURCHTHEMES_OPTIONS_LOGO_HEIGHT', 88 );
 define( 'CHURCHTHEMES_OPTIONS_LOGO_TOP_MARGIN', 24 );
 
 // Custom background
-define( 'CHURCHTHEMES_DEFAULT_BACKGROUND_IMAGE',  WP_THEME_DIR . '/images/bg_body.jpg'  );
+define( 'CHURCHTHEMES_DEFAULT_BACKGROUND_IMAGE',  WP_THEME_URL . '/images/bg_body.jpg'  );
 define( 'CHURCHTHEMES_DEFAULT_BACKGROUND_COLOR', '354230' );
 
 // Slider controls
