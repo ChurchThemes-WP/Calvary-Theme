@@ -32,4 +32,4 @@ if ( !defined( 'CHURCHTHEMES_SLIDER_CONTROLS_ACTIVE' ) ) {
 
 // Update script
 define( 'CHURCHTHEMES_UPDATE_API_URL', 'http://churchthemes.net' );
-define( 'CHURCHTHEMES_ITEM_NAME', 'Antioch' );
+define( 'CHURCHTHEMES_ITEM_NAME', 'Calvary' );
